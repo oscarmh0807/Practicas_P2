@@ -18,6 +18,7 @@ Este repositorio contiene la solución a los 5 ejercicios prácticos correspondi
 
 Cada ejercicio se encuentra organizado dentro de su propia carpeta individual, conteniendo su respectivo archivo fuente (`.cpp`):
 
+```text
 Practicas_P2/
 ├── .gitignore                         # Configuración para omitir ejecutables (.exe)
 ├── README.md                          # Documentación del proyecto
@@ -30,8 +31,8 @@ Practicas_P2/
 ├── MethodOverloading/
 │   └── 04_Method_Overloading.cpp      # Ejercicio 4: Sobrecarga de métodos (Clase Calculadora sumar())
 └── IteratorCollection/
-    └── 05_Collection_Iterator.cpp     # Ejercicio 5: Colección con iterador (std::vector y const_iterator)
-
+    └── 05_Iterator_Collection.cpp     # Ejercicio 5: Colección con iterador (std::vector y const_iterator)
+```
 -----------------------------------------------------------
 
 ## Resumen de Ejercicios
