@@ -25,7 +25,7 @@ int main() {
     ColeccionVehiculos.push_back(Vehiculo("Mazda", "CX-5", 2021));
     ColeccionVehiculos.push_back(Vehiculo("Nissan", "Sentra", 2024));
 
-    std::cout << "===== COLLECCION =====" << std::endl;
+    std::cout << "===== COLECCION =====" << std::endl;
 
     for (std::vector<Vehiculo>::const_iterator it = ColeccionVehiculos.begin();
      it != ColeccionVehiculos.end(); ++it) {
